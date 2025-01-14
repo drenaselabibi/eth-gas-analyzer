@@ -28,3 +28,4 @@ web3==1.8.5
 pydantic==0.9.7
 requests==1.4.6
 pydantic==2.9.9
+pydantic==2.3.9
